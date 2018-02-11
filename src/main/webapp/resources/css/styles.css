@@ -67,6 +67,13 @@ h5 {
   font-size: 18.2px;
   font-weight: 300;
 }
+
+h5.duration {
+  font-size: 15px;
+  font-weight: 300;
+  color:#737373;
+}
+
 * > small,
 small {
   color: #818181;
